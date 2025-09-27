@@ -38,9 +38,13 @@ title: Home
             </div>
             <div id="header-text">
                 <h2>Competition Details</h2>
-                Date: Sat 29th and Sun 30th Mar 2025<br>
-                Time: 1000-1700<br>
-                Venue: Department of Engineering, University of Cambridge, Trumpington St, Cambridge CB2 1PZ, United Kingdom
+                <b>NEW FOR 2026 Reigonals!<b><br>
+                Date: FEB/MARCH (TBC)<br>
+                Venue: Department of Engineering, University of Cambridge, Trumpington St, Cambridge CB2 1PZ, United Kingdom & Edinburgh @ Heriot-Watt University <br>
+                <b>NEW FOR 2026 FINALS!<b><br>
+                Date: JULY (TBC)<br>
+                Venue: QMUL (TBA) <br>
+                <b>NEW FOR 2026 FINALS!<b><br>
             </div>
         </div>
     </div>
