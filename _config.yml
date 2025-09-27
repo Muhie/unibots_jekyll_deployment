@@ -10,8 +10,8 @@ description: >
   articles written by each person can be found in main body of different sections
 
 # GitHub Pages settings
-url: "https://muhie.github.io"
-baseurl: "/unibots_jekyll_deployment"
+url: "https://unibots.uk"
+baseurl: ""
 
 # Build settings
 
